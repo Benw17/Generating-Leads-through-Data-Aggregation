@@ -58,7 +58,7 @@ def fetch_facilities(offset):
         data = response.json()
         return data.get("features", [])
     except Exception as e:
-        print(f"❌ Error fetching data: {e}")
+        print(f"Error fetching data: {e}")
         return []
 
 
