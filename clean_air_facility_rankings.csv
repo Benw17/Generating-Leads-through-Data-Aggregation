@@ -1,0 +1,205 @@
+facility_name,Emission_Weighted_Score,name_clean,tender_score_exact,matched_name,match_score,tender_score,Emission_Scaled,Tender_Scaled,Final_Score,Relevance
+AGL Loy Yang,66.49,agl loy yang,2.20,agl loy yang,100.00,2.20,1.00,0.44,0.83,High
+EnergyAustralia Yallourn,58.73,energyaustralia yallourn,2.20,energyaustralia yallourn,100.00,2.20,0.88,0.44,0.75,High
+ENGIE Hazelwood Power Station and Mine,57.62,engie hazelwood power station and mine,0.00,exmouth power station,76.47,2.20,0.87,0.44,0.74,High
+SAPUTO DAIRY AUSTRALIA - COBRAM SITE,38.78,saputo dairy australia cobram site,0.00,saputo dairy australia,100.00,5.00,0.58,1.00,0.71,High
+BORAL CEMENT LIMITED,37.40,boral cement,0.00,cement australia kandos,66.67,5.00,0.56,1.00,0.69,High
+Enviropacific SOLVE Waste Soil Facility,51.45,enviropacific solve waste soil facility,0.00,enviropacific services,74.29,2.30,0.77,0.46,0.68,High
+Energy Brix Aust Corp P/L,43.21,energy brix aust corp p l,0.00,cs energy,80.00,3.63,0.65,0.73,0.67,High
+Longwarry Food Park,47.83,longwarry food park,2.20,longwarry food park,100.00,2.20,0.72,0.44,0.64,High
+Oceania Glass (Dandenong site),48.17,oceania glass dandenong site,0.00,oceania glass,100.00,2.20,0.72,0.44,0.64,High
+Encore Tissue,47.98,encore tissue,0.00,encore tissue aust,100.00,2.20,0.72,0.44,0.64,High
+Melbourne Regional Landfill,48.26,melbourne regional landfill,0.00,landfill operations,65.22,2.21,0.73,0.44,0.64,High
+Barwon Water Biosolids Management Project,47.97,barwon water biosolids management project,0.00,tronox management,74.07,2.21,0.72,0.44,0.64,High
+Tongala,47.81,tongala,0.00,jonala,76.92,2.20,0.72,0.44,0.64,High
+Wodonga Rendering,48.04,wodonga rendering,2.20,wodonga rendering,100.00,2.20,0.72,0.44,0.64,High
+Wollert Landfill,48.27,wollert landfill,0.00,landfill operations,74.29,2.21,0.73,0.44,0.64,High
+Maddingley Brown Coal,48.26,maddingley brown coal,2.20,maddingley brown coal,100.00,2.20,0.73,0.44,0.64,High
+Diamond Valley Pork - Laverton North,47.12,diamond valley pork laverton north,0.00,diamond valley pork,100.00,2.20,0.71,0.44,0.63,High
+Loy Yang B Power Station,47.74,loy yang b power station,0.00,agl loy yang,80.00,2.20,0.72,0.44,0.63,High
+Taghleef Industries - Wodonga,46.97,taghleef industries wodonga,0.00,taghleef industries,100.00,2.20,0.71,0.44,0.63,High
+CLEANAWAY DANIELS PTY LTD,46.63,cleanaway daniels,0.00,transpacific cleanaway,69.23,2.20,0.70,0.44,0.62,High
+DEALS ROAD LANDFILL,46.24,deals road landfill,0.00,landfill gas and power,68.29,2.20,0.70,0.44,0.62,High
+Wests Road Landfill,45.84,wests road landfill,0.00,landfill operations,68.42,2.21,0.69,0.44,0.62,High
+BOLINDA ROAD LANDFILL,46.12,bolinda road landfill,0.00,landfill gas and power,65.12,2.20,0.69,0.44,0.62,High
+Anglesea Landfill,45.38,anglesea landfill,0.00,landfill gas and power,71.79,2.20,0.68,0.44,0.61,High
+COSGROVE LANDFILL,45.24,cosgrove landfill,0.00,landfill operations,66.67,2.21,0.68,0.44,0.61,High
+Cobram Landfill,45.14,cobram landfill,0.00,landfill operations,70.59,2.21,0.68,0.44,0.61,High
+KILMANY LANDFILL,45.49,kilmany landfill,0.00,landfill gas and power,66.67,2.20,0.68,0.44,0.61,High
+Grantville Landfill,45.67,grantville landfill,0.00,landfill operations,68.42,2.21,0.69,0.44,0.61,High
+Drysdale Resource Recovery Centre and Landfill,45.83,drysdale resource recovery centre and landfill,0.00,stapylton resource recovery,77.27,2.20,0.69,0.44,0.61,High
+Alcoa Anglesea Power Station,44.63,alcoa anglesea power station,0.00,exmouth power station,76.47,2.20,0.67,0.44,0.60,High
+Eaglehawk Landfill,44.18,eaglehawk landfill,0.00,landfill gas and power,65.00,2.20,0.66,0.44,0.60,High
+COLAC,43.15,colac,0.00,australian lamb colac,100.00,2.20,0.65,0.44,0.59,High
+Bowser Landfill,43.25,bowser landfill,0.00,landfill operations,70.59,2.21,0.65,0.44,0.59,High
+QENOS PTY LTD,43.12,qenos,2.22,qenos,100.00,2.22,0.65,0.44,0.59,High
+Thomas Foods International Stawell PTY LTD,42.97,thomas foods international stawell,2.20,thomas foods international stawell,100.00,2.20,0.65,0.44,0.58,High
+Infrabuild Steel,54.68,infrabuild steel,0.00,,58.06,0.00,0.82,0.00,0.58,High
+MCCORMACK DEMBY TIMBER PTY LTD,42.81,mccormack demby timber,2.20,mccormack demby timber,100.00,2.20,0.64,0.44,0.58,High
+Bairnsdale Power Station,41.52,bairnsdale power station,0.00,exmouth power station,76.47,2.20,0.62,0.44,0.57,High
+Anne Caudle Centre Cogeneration Plant,41.20,anne caudle centre cogeneration plant,0.00,osborne cogeneration,75.00,2.20,0.62,0.44,0.57,High
+Oztek,41.16,oztek,0.00,oztek holdings,100.00,2.24,0.62,0.45,0.57,High
+Hallam Rd Landfill,41.20,hallam rd landfill,0.00,landfill gas and power,65.00,2.20,0.62,0.44,0.57,High
+Altona Manufacturing Plant,41.28,altona manufacturing plant,0.00,mcneil manufacturing,78.79,2.25,0.62,0.45,0.57,High
+POTTERS INDUSTRIES PTY LTD,41.76,potters industries,2.20,potters industries,100.00,2.20,0.63,0.44,0.57,High
+Tabro Meat,40.91,tabro meat,2.20,tabro meat,100.00,2.20,0.62,0.44,0.56,High
+Nestle Foods,40.33,nestle foods,0.00,national foods,69.23,2.21,0.61,0.44,0.56,High
+Wollert Plant,53.63,wollert plant,0.00,,60.00,0.00,0.81,0.00,0.56,High
+Bairnsdale Regional Landfill,45.22,bairnsdale regional landfill,0.00,cairns regional council,70.59,1.36,0.68,0.27,0.56,High
+Alfred Hospital Cogeneration Plant,40.76,alfred hospital cogeneration plant,0.00,osborne cogeneration,75.00,2.20,0.61,0.44,0.56,High
+AUSTRALIAN MEAT GROUP DANDENONG,38.77,australian meat group dandenong,0.00,australian meat group,100.00,2.37,0.58,0.47,0.55,High
+CSL Behring (Australia) Pty Ltd,45.32,csl behring australia,0.00,csl,100.00,1.24,0.68,0.25,0.55,High
+SORBENT PAPER COMPANY PTY LTD,38.45,sorbent paper,2.20,sorbent paper,100.00,2.20,0.58,0.44,0.54,High
+Midfield Protein Solutions,37.50,midfield protein solutions,2.49,midfield protein solutions,100.00,2.49,0.56,0.50,0.54,High
+Visy Paper 2,38.70,visy paper 2,0.00,visy paper,100.00,2.20,0.58,0.44,0.54,High
+Burra Foods Factory,38.90,burra foods factory,0.00,burra foods,100.00,2.20,0.59,0.44,0.54,High
+Ecogen Jeeralang Power Station,38.00,ecogen jeeralang power station,0.00,exmouth power station,76.47,2.20,0.57,0.44,0.53,High
+AUSTRALIAN TALLOW PRODUCERS PTY LTD,37.72,australian tallow producers,2.20,australian tallow producers,100.00,2.20,0.57,0.44,0.53,High
+Midfield Meat Group,37.43,midfield meat group,0.00,midfield meat processing,81.25,2.20,0.56,0.44,0.53,High
+Visy Board Wodonga,37.53,visy board wodonga,2.20,visy board wodonga,100.00,2.20,0.56,0.44,0.53,High
+G & K O'CONNOR PTY LTD,38.15,g and k o connor,2.20,g and k o connor,100.00,2.20,0.57,0.44,0.53,High
+Eureka Tiles Australia - Ballarat Manufacturing Facility,21.58,eureka tiles australia ballarat manufacturing facility,0.00,c3 australia,85.71,5.00,0.32,1.00,0.53,High
+Iona Gas,37.61,iona gas,0.00,lochard energy iona operations,66.67,2.20,0.57,0.44,0.53,High
+Valley Power,37.98,valley power,2.20,valley power,100.00,2.20,0.57,0.44,0.53,High
+LEADING SYNTHETICS PTY LTD,37.84,leading synthetics,2.20,leading synthetics,100.00,2.20,0.57,0.44,0.53,High
+Boral Quarry Bacchus Marsh,49.42,boral quarry bacchus marsh,0.00,,58.82,0.00,0.74,0.00,0.52,High
+Qenos Resins,36.98,qenos resins,0.00,qenos,100.00,2.22,0.56,0.44,0.52,High
+Midfield Co-Products,36.14,midfield products,2.20,midfield products,100.00,2.20,0.54,0.44,0.51,High
+Wodonga,35.46,wodonga,0.00,wodonga quarries,100.00,2.20,0.53,0.44,0.51,High
+GIRGARRE,47.83,girgarre,0.00,,52.63,0.00,0.72,0.00,0.50,High
+Brimbank,47.14,brimbank,0.00,,57.14,0.00,0.71,0.00,0.50,High
+FRASER ROAD LANDFILL,47.95,fraser road landfill,0.00,,61.90,0.00,0.72,0.00,0.50,High
+HUHTAMAKI FIBER FOODSERVICE PRESTON,47.62,huhtamaki fiber foodservice preston,0.00,,64.29,0.00,0.72,0.00,0.50,High
+ContiTech Australia,18.05,contitech australia,5.00,contitech australia,100.00,5.00,0.27,1.00,0.49,Medium
+Old Geelong Road landfill,45.47,old geelong road landfill,0.00,,59.57,0.00,0.68,0.00,0.48,Medium
+Aspen Australia Dandenong,16.80,aspen australia dandenong,0.00,c3 australia,85.71,5.00,0.25,1.00,0.48,Medium
+Amcor Flexibles Asia Pacific - Moorabbin,16.25,amcor flexibles asia pacific moorabbin,0.00,amcor flexibles australia,75.00,5.00,0.24,1.00,0.47,Medium
+Visy Melbourne Plant,44.28,visy melbourne plant,0.00,,62.07,0.00,0.67,0.00,0.47,Medium
+AIRSTEP AUSTRALIA PTY LTD,16.05,airstep australia,5.00,airstep australia,100.00,5.00,0.24,1.00,0.47,Medium
+BALLARAT CITY COUNCIL,38.00,ballarat city council,0.00,hobart city council,85.00,1.12,0.57,0.22,0.47,Medium
+Holden's Boiler House,38.06,holden s boiler house,0.00,gm holden,80.00,1.12,0.57,0.22,0.47,Medium
+Denyer Rd Landfill,44.03,denyer rd landfill,0.00,,61.54,0.00,0.66,0.00,0.46,Medium
+Dartmoor Sawmill,43.46,dartmoor sawmill,0.00,,64.52,0.00,0.65,0.00,0.46,Medium
+GRAMPIANS WOOL INDUSTRIES P/L,37.39,grampians wool industries p l,1.12,grampians wool industries p l,100.00,1.12,0.56,0.22,0.46,Medium
+Selkirk Pty Ltd,43.50,selkirk,0.00,,50.00,0.00,0.65,0.00,0.46,Medium
+Leitchville Site,42.33,leitchville site,0.00,,57.89,0.00,0.64,0.00,0.45,Medium
+CHH Morwell Sawmill,41.35,chh morwell sawmill,0.00,,64.71,0.00,0.62,0.00,0.44,Medium
+Portland Landfill,28.77,portland landfill,0.00,landfill operations,72.22,2.21,0.43,0.44,0.44,Medium
+Tylden Quarry,42.10,tylden quarry,0.00,,63.16,0.00,0.63,0.00,0.44,Medium
+Coldstream Landfill & Waste Transfer Centre,28.93,coldstream landfill and waste transfer centre,0.00,ace waste,71.43,2.20,0.44,0.44,0.44,Medium
+BAW BAW SHIRE COUNCIL,28.35,baw baw shire council,2.21,baw baw shire council,100.00,2.21,0.43,0.44,0.43,Medium
+Kangaroo Ground Landfill,28.25,kangaroo ground landfill,0.00,landfill gas and power,65.22,2.20,0.42,0.44,0.43,Medium
+HAMILTON LANDFILL,28.05,hamilton landfill,0.00,landfill operations,72.22,2.21,0.42,0.44,0.43,Medium
+Greenham Gippsland,27.85,greenham gippsland,2.20,greenham gippsland,100.00,2.20,0.42,0.44,0.43,Medium
+Kilmore Landfill,28.05,kilmore landfill,0.00,landfill gas and power,66.67,2.20,0.42,0.44,0.43,Medium
+HEPBURN SHIRE COUNCIL,28.60,hepburn shire council,0.00,baw baw shire council,86.67,2.21,0.43,0.44,0.43,Medium
+Koorlong Landfill,28.14,koorlong landfill,0.00,landfill operations,72.22,2.21,0.42,0.44,0.43,Medium
+Corangamite Regional Landfill,28.39,corangamite regional landfill,0.00,landfill operations,66.67,2.21,0.43,0.44,0.43,Medium
+Western Recycle,28.33,western recycle,0.00,western energy,68.97,2.20,0.43,0.44,0.43,Medium
+CRYSTAL OCEAN FPSO,40.40,crystal ocean fpso,0.00,,60.00,0.00,0.61,0.00,0.43,Medium
+Foster Landfill,28.49,foster landfill,0.00,landfill operations,70.59,2.21,0.43,0.44,0.43,Medium
+Esso - Crude Oil Stabilisation Plant,41.21,esso crude oil stabilisation plant,0.00,,50.00,0.00,0.62,0.00,0.43,Medium
+Cobram Boilerhouse,40.85,cobram boilerhouse,0.00,,56.25,0.00,0.61,0.00,0.43,Medium
+Benalla Landfill,28.17,benalla landfill,0.00,landfill gas and power,66.67,2.20,0.42,0.44,0.43,Medium
+Caroma Industries Ltd,33.78,caroma industries,0.00,bis industries,83.33,1.12,0.51,0.22,0.42,Medium
+Cathies Lane Landfill Site,38.68,cathies lane landfill site,0.00,,62.22,0.00,0.58,0.00,0.41,Medium
+KOROIT SITE,38.92,koroit site,0.00,,51.61,0.00,0.59,0.00,0.41,Medium
+Cobden,38.84,cobden,0.00,,53.33,0.00,0.58,0.00,0.41,Medium
+Bacchus Marsh,39.23,bacchus marsh,0.00,,53.33,0.00,0.59,0.00,0.41,Medium
+The Packaging Company,9.34,the packaging,0.00,opal packaging australia,81.82,5.00,0.14,1.00,0.40,Medium
+ALTONA PROPERTIES P/L,9.50,altona properties p l,0.00,simplot australia properties,69.39,5.00,0.14,1.00,0.40,Medium
+AXEDALE SANDS quarry,37.21,axedale sands quarry,0.00,,62.50,0.00,0.56,0.00,0.39,Medium
+Ford - Broadmeadows Plant,37.43,ford broadmeadows plant,0.00,,55.32,0.00,0.56,0.00,0.39,Medium
+AIR LIQUIDE AUST LTD,8.64,air liquide aust,0.00,air liquide australia,86.49,5.00,0.13,1.00,0.39,Medium
+Rockbank Quarry,22.27,rockbank quarry,0.00,quarry products,66.67,2.20,0.33,0.44,0.37,Medium
+ASSA ABLOY AUSTRALIA PTY LIMITED,6.03,assa abloy australia,5.00,assa abloy australia,100.00,5.00,0.09,1.00,0.36,Medium
+JOHNSON TILES P/L,34.60,johnson tiles p l,0.00,,55.17,0.00,0.52,0.00,0.36,Medium
+Lilydale Lime Manufacturing Plant,19.65,lilydale lime manufacturing plant,0.00,mcneil manufacturing,78.79,2.25,0.30,0.45,0.34,Medium
+CLARINDA RECYCLING,20.77,clarinda recycling,0.00,boral recycling,75.00,2.08,0.31,0.42,0.34,Medium
+Bonlac Foods Camperdown,30.91,bonlac foods camperdown,0.00,,63.83,0.00,0.46,0.00,0.33,Medium
+AGL Symex Cogeneration Unit,17.75,agl symex cogeneration unit,0.00,osborne cogeneration,75.00,2.20,0.27,0.44,0.32,Medium
+Australian Lamb (Colac) Pty Ltd,18.03,australian lamb colac,2.20,australian lamb colac,100.00,2.20,0.27,0.44,0.32,Medium
+REID BROS TIMBER PTY LTD,17.82,reid bros timber,2.20,reid bros timber,100.00,2.20,0.27,0.44,0.32,Medium
+ROCLA PTY LIMITED,17.93,rocla,2.20,rocla,100.00,2.20,0.27,0.44,0.32,Medium
+AGL Somerton Power Station,18.21,agl somerton power station,0.00,exmouth power station,76.47,2.20,0.27,0.44,0.32,Medium
+Labelmakers - Somerton,16.43,labelmakers somerton,0.00,labelmakers group,78.57,2.25,0.25,0.45,0.31,Medium
+Swan Hill Abattoirs,17.26,swan hill abattoirs,0.00,cowra abattoir,66.67,2.20,0.26,0.44,0.31,Medium
+M.C. HERD PROPRIETARY LIMITED,16.84,m c herd proprietary,2.20,m c herd proprietary,100.00,2.20,0.25,0.44,0.31,Medium
+OVATO PRINT PTY LTD,17.32,ovato print,0.00,pmp print,71.43,2.21,0.26,0.44,0.31,Medium
+Ararat Abattoir,17.12,ararat abattoir,0.00,cowra abattoir,75.86,2.20,0.26,0.44,0.31,Medium
+GLASSMETAL INDUSTRIES PTY LTD,16.57,glassmetal industries,2.20,glassmetal industries,100.00,2.20,0.25,0.44,0.31,Medium
+AIW PRINTING PTY LTD,16.92,aiw printing,2.20,aiw printing,100.00,2.20,0.25,0.44,0.31,Medium
+CCL Secure,16.99,ccl secure,2.21,ccl secure,100.00,2.21,0.26,0.44,0.31,Medium
+Heytesbury Gas Facility,29.76,heytesbury gas facility,0.00,,56.52,0.00,0.45,0.00,0.31,Medium
+Henry Jones Foods - Goulburn Valley Creamery,16.47,henry jones foods goulburn valley creamery,0.00,henry jones foods,100.00,2.20,0.25,0.44,0.31,Medium
+PHILLIPS BRICKS & POTTERY PROPRIETARY LIMITED,20.70,phillips bricks and pottery proprietary,1.60,phillips bricks and pottery proprietary,100.00,1.60,0.31,0.32,0.31,Medium
+VICTORIA WOOL PROCESSORS (AUST) PTY LTD,16.99,victoria wool processors aust,2.20,victoria wool processors aust,100.00,2.20,0.26,0.44,0.31,Medium
+Frew Kyneton Pty Ltd,16.52,frew kyneton,2.20,frew kyneton,100.00,2.20,0.25,0.44,0.31,Medium
+Fairfax media Wendouree ACM,16.60,fairfax media wendouree acm,0.00,fairfax media,100.00,2.20,0.25,0.44,0.31,Medium
+Ensign Laboratories Pty Ltd,19.82,ensign laboratories,0.00,ensign laboratories proprietary,100.00,1.60,0.30,0.32,0.30,Medium
+Carisbrook Landfill,28.40,carisbrook landfill,0.00,,63.16,0.00,0.43,0.00,0.30,Medium
+Casey Joint Venture User Group,28.52,casey joint venture user group,0.00,,64.15,0.00,0.43,0.00,0.30,Medium
+Beechworth Road Landfill,28.30,beechworth road landfill,0.00,,60.47,0.00,0.43,0.00,0.30,Medium
+Viridian Clayton,16.20,viridian clayton,0.00,viridian glass,73.33,2.20,0.24,0.44,0.30,Medium
+Nylex Industrial Products,16.37,nylex industrial products,0.00,cmi industrial,83.33,2.21,0.25,0.44,0.30,Medium
+Hannanprint Victoria,16.85,hannanprint victoria,2.08,hannanprint victoria,100.00,2.08,0.25,0.42,0.30,Medium
+Lancefield Landfill,28.15,lancefield landfill,0.00,,59.26,0.00,0.42,0.00,0.30,Medium
+Myrtleford Landfill,28.01,myrtleford landfill,0.00,,63.16,0.00,0.42,0.00,0.29,Medium
+Iveco trucks,7.48,iveco trucks,0.00,iveco trucks australia,100.00,3.38,0.11,0.68,0.28,Medium
+DANIEL ROBERTSON AUST P/L,18.97,daniel robertson aust p l,0.00,ers aust p l,80.00,1.12,0.29,0.22,0.27,Medium
+Mildura Operations,10.76,mildura operations,0.00,hv operations,86.96,2.38,0.16,0.48,0.26,Medium
+Buchan,23.87,buchan,0.00,,47.06,0.00,0.36,0.00,0.25,Medium
+Geelong Operations,10.58,geelong operations,0.00,glng operations,90.91,2.38,0.16,0.48,0.25,Medium
+GEELONG WOOL COMBING LTD,10.01,geelong wool combing,0.00,riverina wool combing,75.00,2.20,0.15,0.44,0.24,Low
+CMI Forge,9.24,cmi forge,0.00,overall forge,71.43,2.20,0.14,0.44,0.23,Low
+Geelong Cement,21.26,geelong cement,0.00,,60.00,0.00,0.32,0.00,0.22,Low
+Sunshine Power Station,8.11,sunshine power station,0.00,exmouth power station,76.47,2.20,0.12,0.44,0.22,Low
+LORIMER TIMBER PTY LTD,8.00,lorimer timber,0.00,gympie timber,66.67,2.20,0.12,0.44,0.22,Low
+SHELTON TIMBER TREATMENT CO PTY LTD,8.00,shelton timber treatment,2.20,shelton timber treatment,100.00,2.20,0.12,0.44,0.22,Low
+SIGMA PHARMACEUTICALS P/L,9.25,sigma pharmaceuticals p l,0.00,inova pharmaceuticals,83.33,2.08,0.14,0.42,0.22,Low
+HYLAND HIGHWAY LANDFILL,19.72,hyland highway landfill,0.00,,59.26,0.00,0.30,0.00,0.21,Low
+AUSTRALIAN BUILDING CERAMICS P/L,18.54,australian building ceramics p l,0.00,,64.52,0.00,0.28,0.00,0.20,Low
+Hanson Harkaway Quarry,18.54,hanson harkaway quarry,0.00,,57.14,0.00,0.28,0.00,0.20,Low
+Geelong Treated Timber,6.16,geelong treated timber,0.00,shelton timber treatment,78.26,2.20,0.09,0.44,0.20,Low
+Beechworth Quarry,17.84,beechworth quarry,0.00,,60.61,0.00,0.27,0.00,0.19,Low
+Pittong,17.84,pittong,0.00,,52.63,0.00,0.27,0.00,0.19,Low
+Athena Gas Plant,18.20,athena gas plant,0.00,,53.33,0.00,0.27,0.00,0.19,Low
+UNIDRIVE P/L,16.70,unidrive p l,0.00,,57.14,0.00,0.25,0.00,0.18,Low
+SILTECH PTY LTD,17.30,siltech,0.00,,53.33,0.00,0.26,0.00,0.18,Low
+Sun Pharma Controlled Substances Division,16.76,sun pharma controlled substances division,0.00,,54.55,0.00,0.25,0.00,0.18,Low
+Top Cut Foods - Gilbertson Laverton,17.34,top cut foods gilbertson laverton,0.00,,62.50,0.00,0.26,0.00,0.18,Low
+Siltech PMR,17.49,siltech pmr,0.00,,54.55,0.00,0.26,0.00,0.18,Low
+Kenworth Trucks,17.26,kenworth trucks,0.00,,57.14,0.00,0.26,0.00,0.18,Low
+Mulgrave Site,17.15,mulgrave site,0.00,,54.55,0.00,0.26,0.00,0.18,Low
+GUILDTOWN PTY LTD,5.00,guildtown,2.20,guildtown,100.00,2.20,0.08,0.44,0.18,Low
+BENDIGO,17.08,bendigo,0.00,,50.00,0.00,0.26,0.00,0.18,Low
+Blackmores Braeside,16.76,blackmores braeside,0.00,,52.63,0.00,0.25,0.00,0.18,Low
+Laverton North,17.16,laverton north,0.00,,57.89,0.00,0.26,0.00,0.18,Low
+Australian Centre for Disease Preparedness,17.31,australian centre for disease preparedness,0.00,,64.52,0.00,0.26,0.00,0.18,Low
+Dairy Farmers - Simpson,16.76,dairy farmers simpson,0.00,,55.81,0.00,0.25,0.00,0.18,Low
+Forest St,16.88,forest st,0.00,,55.56,0.00,0.25,0.00,0.18,Low
+Geelong Automotive,16.88,geelong automotive,0.00,,51.61,0.00,0.25,0.00,0.18,Low
+Boronia,16.96,boronia,0.00,,55.56,0.00,0.26,0.00,0.18,Low
+Perfection Packaging,16.64,perfection packaging,0.00,,62.86,0.00,0.25,0.00,0.18,Low
+Portland Pine,8.00,portland pine,0.00,portland pine products proprietary,100.00,1.60,0.12,0.32,0.18,Low
+CRAIGIEBURN,16.57,craigieburn,0.00,,47.37,0.00,0.25,0.00,0.17,Low
+WINCHESTER AUST LTD,3.43,winchester aust,2.20,winchester aust,100.00,2.20,0.05,0.44,0.17,Low
+NovaPower Traralgon,14.87,novapower traralgon,0.00,,57.89,0.00,0.22,0.00,0.16,Low
+OneSteel Martin Bright,3.10,onesteel martin bright,0.00,onesteel nsw,80.00,2.20,0.05,0.44,0.16,Low
+STEELE & LINCOLN FOUNDRY (VIC) P/L,2.56,steele and lincoln foundry vic p l,0.00,allen foundry,70.00,2.20,0.04,0.44,0.16,Low
+BILLMAN'S FOUNDRY PTY LTD,3.07,billman s foundry,2.20,billman s foundry,100.00,2.20,0.05,0.44,0.16,Low
+Sunshine,7.17,sunshine,0.00,sunshine coast regional council,100.00,1.48,0.11,0.30,0.16,Low
+J Furphy & Sons Pty Ltd,3.85,j furphy and sons,0.00,j furphy and sons proprietary,100.00,1.60,0.06,0.32,0.14,Low
+BENDIGO BRICK P/L,11.30,bendigo brick p l,0.00,,59.46,0.00,0.17,0.00,0.12,Low
+Geelong Distribution Centre,10.29,geelong distribution centre,0.00,,57.69,0.00,0.15,0.00,0.11,Low
+GAINSBOROUGH HARDWARE INDUSTRIES LIMITED,3.83,gainsborough hardware industries,1.12,gainsborough hardware industries,100.00,1.12,0.06,0.22,0.11,Low
+Minerva Gas Projects No. 3 and 4,10.28,minerva gas projects no 3 and 4,0.00,,53.85,0.00,0.15,0.00,0.11,Low
+Riversdale Mill,9.62,riversdale mill,0.00,,55.56,0.00,0.14,0.00,0.10,Low
+"AUST GOLD ALLIANCE P/L,GOLD CORP&JOHNSON",3.00,aust gold alliance p l gold corp and johnson,0.00,ers aust p l,80.00,1.12,0.05,0.22,0.10,Low
+Boral Quarry Sandy Creek,9.20,boral quarry sandy creek,0.00,,63.41,0.00,0.14,0.00,0.10,Low
+Lang Lang,8.32,lang lang,0.00,,54.55,0.00,0.13,0.00,0.09,Low
+Dairy Farmers Shepparton,8.70,dairy farmers shepparton,0.00,,56.52,0.00,0.13,0.00,0.09,Low
+Fisher's Timber Preservation,3.56,fisher s timber preservation,0.00,,63.16,0.00,0.05,0.00,0.04,Low
+Allegion Door and Access Systems - Brooklyn,3.86,allegion door and access systems brooklyn,0.00,,61.54,0.00,0.06,0.00,0.04,Low
+Scoresby Plant,3.11,scoresby plant,0.00,,51.85,0.00,0.05,0.00,0.03,Low
+SDI LIMITED,2.00,sdi,0.00,,50.00,0.00,0.03,0.00,0.02,Low
